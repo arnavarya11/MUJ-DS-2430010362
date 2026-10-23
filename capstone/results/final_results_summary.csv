@@ -1,0 +1,10 @@
+Metric,Value
+Best Validation Accuracy,76.67%
+Test Accuracy (Top-1),77.02%
+Test Accuracy (Top-5),94.80%
+Weighted Precision,78.10%
+Weighted Recall,77.02%
+Weighted F1-Score,76.84%
+Macro Precision,78.02%
+Macro Recall,76.98%
+Macro F1-Score,76.78%

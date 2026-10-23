@@ -1,0 +1,11 @@
+rank,class_name,f1_score,precision,recall
+1,chevrolet express van 2007,0.31,0.35,0.28
+2,audi s5 coupe 2012,0.37,0.4,0.34
+3,audi s4 sedan 2012,0.39,0.42,0.36
+4,dodge sprinter cargo van 2009,0.46,0.48,0.44
+5,hyundai accent sedan 2012,0.46,0.49,0.43
+6,chevrolet silverado 1500 extended cab 2012,0.47,0.5,0.45
+7,chevrolet express cargo van 2007,0.49,0.51,0.47
+8,audi tt hatchback 2011,0.49,0.52,0.46
+9,aston martin virage convertible 2012,0.53,0.55,0.51
+10,bmw m6 convertible 2010,0.56,0.58,0.54

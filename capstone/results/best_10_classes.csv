@@ -1,0 +1,11 @@
+rank,class_name,f1_score,precision,recall
+1,am general hummer suv 2000,0.99,1.0,0.98
+2,dodge caravan minivan 1997,0.99,0.98,1.0
+3,fiat 500 abarth 2012,0.98,0.98,0.98
+4,cadillac srx suv 2012,0.97,0.97,0.97
+5,chrysler pt cruiser convertible 2008,0.97,0.96,0.98
+6,mini cooper roadster convertible 2012,0.96,0.95,0.97
+7,lincoln town car sedan 2011,0.95,0.96,0.94
+8,nissan nv passenger van 2012,0.93,0.93,0.93
+9,chevrolet hhr ss 2010,0.93,0.92,0.94
+10,jeep wrangler suv 2012,0.93,0.94,0.92
