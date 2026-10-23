@@ -1,4 +1,4 @@
-﻿# NLP Capstone Project
+﻿# Stanford Cars Image Classification Using Deep Learning
 
 ## Student Details
 - **Name:** Arnav Arya
@@ -7,11 +7,23 @@
 - **Batch:** F
 - **GitHub Username:** arnavarya11
 
-## Project Title
-NLP Capstone Project
+## Project Overview
+This project explores image classification using deep learning and the Stanford Cars dataset. The notebook uses PyTorch and Hugging Face Datasets to load and prepare the image data for experimentation.
 
-## Training Program
-Batch F – NLP Capstone Project Training Program
+## Technologies Used
+- Python
+- PyTorch
+- Hugging Face Datasets
+- Transformers
+- Scikit-learn
+- Google Colab with GPU acceleration
+
+## Dataset
+Dataset: `mtb/StanfordCars`
+
+The notebook output reports:
+- Training split: 8,144 images
+- Test split: 8,041 images
 
 ## Repository Structure
 - `assignments/` – Assignments and weekly tasks
@@ -22,7 +34,13 @@ Batch F – NLP Capstone Project Training Program
 - `capstone/` – Capstone project files
 
 ## Getting Started
-Open `notebooks/2430010362.ipynb` using Jupyter Notebook or Google Colab to explore the project.
+1. Open `notebooks/2430010362.ipynb` in Google Colab or Jupyter Notebook.
+2. Install the dependencies specified in the notebook.
+3. Run the notebook cells in order.
+4. Enable GPU acceleration if available.
 
-## Progress
-Project files and documentation will be updated regularly throughout the training program.
+## Training Program
+Batch F – NLP Capstone Project Training Program
+
+## Project Status
+Implementation and evaluation details will be documented as the project develops.
